@@ -1,0 +1,358 @@
+Season,Rank,Player,Age,Weight,Height,Mins,Goals,Assists,Yel,Red,SpG,PS%,AerialsWon,MotM,Rating,Nationality,Position
+2010/2011,1,Lionel Messi,23,72,170,2859,31,18,3,0,4.5,86.2,0.1,20,8.76,Argentina,Forward
+2010/2011,2,Marc Bartra,19,70,184,180,1,0,0,0,1,83.8,1,0,7.77,Spain,Defender
+2010/2011,3,Andres Iniesta,26,68,171,2799,8,3,1,0,1.3,89.6,0.1,2,7.72,Spain,Midfielder
+2010/2011,4,Dani Alves,27,70,172,2904,2,15,10,0,1,86.6,0.6,3,7.66,Brazil,Defender
+2010/2011,5,Xavi,30,68,170,2467,3,7,6,0,1.1,94.4,0,2,7.58,Spain,Midfielder
+2010/2011,6,Sergio Busquets,22,76,189,2298,1,3,5,0,0.3,92.4,1,0,7.38,Spain,Midfielder
+2010/2011,7,David Villa,28,69,175,2770,18,5,3,1,3.9,78.9,0.1,1,7.34,Spain,Forward
+2010/2011,8,Pedro,23,65,169,2152,13,7,2,0,1.8,89.7,0.1,1,7.32,Spain,Forward
+2010/2011,9,Carles Puyol,32,80,178,1386,1,0,3,0,0.3,90.6,1.4,0,7.19,Spain,Defender
+2010/2011,10,Thiago Alcantara,19,70,174,662,2,0,1,0,0.7,93.1,0.3,0,7.16,Spain,Midfielder
+2010/2011,11,Eric Abidal,31,75,186,2024,0,0,3,0,0.3,90.7,0.7,0,7.11,France,Defender
+2010/2011,12,Sergi Roberto,18,68,178,90,0,1,0,0,2,85.2,0,0,7.05,Spain,Midfielder
+2010/2011,13,Gerard Pique,23,85,194,2652,3,1,9,1,0.6,88.4,1.1,0,7.04,Spain,Defender
+2010/2011,14,Andreu Fontas,20,91,188,460,0,1,0,0,0,92.6,0.3,0,7.01,Spain,Defender
+2010/2011,15,Adriano,25,75,172,951,0,1,3,0,0.5,88.6,0.3,1,6.98,Brazil,Defender
+2010/2011,16,Javier Mascherano,26,73,174,1538,0,0,6,0,0.3,91.8,0.7,1,6.96,Argentina,Midfielder
+2010/2011,17,Maxwell,29,73,176,1818,0,1,2,0,0.2,88,0.8,0,6.91,Brazil,Defender
+2010/2011,18,Victor Valdes,28,78,183,2880,0,0,6,0,0,82,0,1,6.91,Spain,Goalkeeper
+2010/2011,19,Gabriel Milito,30,78,179,656,0,0,2,0,0,90,0.8,0,6.69,Argentina,Defender
+2010/2011,20,Pinto,34,82,185,630,0,0,1,0,0,82.4,0,0,6.65,Spain,Goalkeeper
+2010/2011,21,Seydou Keita,30,75,183,1531,3,2,2,0,0.4,91.8,0.9,1,6.63,Mali,Midfielder
+2010/2011,22,Bojan,20,65,170,933,6,2,2,0,1.1,84.5,0.1,1,6.62,Spain,Forward
+2010/2011,23,Jeffren Suarez,22,73,176,302,1,1,0,0,1.5,83.2,0.3,0,6.6,Venezuela,Forward
+2010/2011,24,Jonathan dos Santos,20,74,172,87,0,0,0,0,0,91.3,0,0,6.54,Mexico,Midfielder
+2010/2011,25,Ibrahim Afellay,24,76,180,664,1,0,1,0,1,91.7,0.1,0,6.47,Netherlands,Forward
+2010/2011,26,Martin Montoya,19,73,175,20,0,0,0,0,0,100,0.5,0,6.31,Spain,Defender
+2010/2011,27,Oriol Romeu,19,83,183,8,0,0,0,0,0,100,0,0,6.23,Spain,Midfielder
+2010/2011,28,Nolito,24,65,175,14,0,0,0,0,0.5,100,0,0,6.17,Spain,Forward
+2011/2012,1,Lionel Messi,24,72,170,3268,50,16,6,0,5.5,84.2,0.1,24,8.88,Argentina,Forward
+2011/2012,2,Cesc Fabregas,24,77,180,1947,9,8,6,0,1.6,86.9,0.1,2,7.44,Spain,Midfielder
+2011/2012,3,Dani Alves,28,70,172,2676,2,11,6,2,1.1,84.5,0.5,1,7.43,Brazil,Defender
+2011/2012,4,Andres Iniesta,27,68,171,1867,2,9,3,0,1.8,89.7,0.1,2,7.43,Spain,Midfielder
+2011/2012,5,Alexis Sanchez,22,62,169,1681,12,5,4,0,1.8,80.8,0.4,1,7.43,Chile,Forward
+2011/2012,6,Javier Mascherano,27,73,174,2738,0,0,4,1,0.1,88.7,0.7,0,7.42,Argentina,Midfielder
+2011/2012,7,Xavi,31,68,170,2256,10,7,3,0,1.2,92.4,0,2,7.41,Spain,Midfielder
+2011/2012,8,Sergio Busquets,23,76,189,2439,1,1,9,0,0.2,91.6,0.8,0,7.41,Spain,Midfielder
+2011/2012,9,Thiago Alcantara,20,70,174,1820,2,3,2,1,0.9,92.7,0.4,1,7.4,Spain,Midfielder
+2011/2012,10,Adriano,26,75,172,1733,1,5,3,0,0.8,89.9,0.5,1,7.13,Brazil,Defender
+2011/2012,11,Eric Abidal,32,75,186,1765,0,2,0,0,0.2,89.9,1,0,7.07,France,Defender
+2011/2012,12,Isaac Cuenca,20,68,179,1076,2,2,1,0,0.9,88.8,0.1,0,7.05,Spain,Forward
+2011/2012,13,Carles Puyol,33,80,178,1920,3,0,3,0,0.4,90.7,0.8,0,6.95,Spain,Defender
+2011/2012,14,Pinto,35,82,185,270,0,0,0,0,0,82.5,0,0,6.94,Spain,Goalkeeper
+2011/2012,15,Martin Montoya,20,73,175,369,0,1,1,0,0.3,89,0.7,0,6.86,Spain,Defender
+2011/2012,16,Gerard Pique,24,85,194,1476,2,0,7,1,0.6,86,1,0,6.82,Spain,Defender
+2011/2012,17,David Villa,29,69,175,890,5,1,1,0,2.3,77.2,0.1,0,6.81,Spain,Forward
+2011/2012,18,Pedro,24,65,169,1640,5,5,4,0,1.4,88.2,0,0,6.78,Spain,Forward
+2011/2012,19,Seydou Keita,31,75,183,1336,3,1,4,0,0.5,91.9,0.9,1,6.77,Mali,Midfielder
+2011/2012,20,Maxwell,30,73,176,420,0,0,1,0,0.3,88.8,1,0,6.71,Brazil,Defender
+2011/2012,21,Jonathan dos Santos,21,74,172,119,0,0,0,0,0.3,91,1,0,6.71,Mexico,Midfielder
+2011/2012,22,Victor Valdes,29,78,183,3150,0,0,4,0,0,77.9,0,0,6.65,Spain,Goalkeeper
+2011/2012,23,Andreu Fontas,21,91,188,80,0,0,0,0,0,93,1,0,6.55,Spain,Defender
+2011/2012,24,Cristian Tello,20,65,178,438,3,0,1,0,1.3,85.6,0,0,6.47,Spain,Forward
+2011/2012,25,Sergi Roberto,19,68,178,90,0,0,1,0,1,74.6,2,0,6.43,Spain,Midfielder
+2011/2012,26,Marc Bartra,20,70,184,22,0,0,0,0,0,83.3,0,0,6.29,Spain,Defender
+2011/2012,27,Ibrahim Afellay,25,76,180,120,0,0,0,0,0.3,94.1,0,0,6.26,Netherlands,Forward
+2011/2012,28,Gerard Deulofeu,17,73,177,26,0,0,0,0,0,50,0,0,6.11,Spain,Forward
+2011/2012,29,Marc Muniesa,19,72,179,7,0,0,0,0,0,100,0,0,6.01,Spain,Defender
+2012/2013,1,Lionel Messi,25,72,170,2644,46,12,1,0,5.1,85.2,0.2,19,8.83,Argentina,Forward
+2012/2013,2,Cesc Fabregas,25,77,180,2325,11,11,7,0,1.6,88.6,0.5,2,7.45,Spain,Midfielder
+2012/2013,3,Andres Iniesta,28,68,171,2096,3,16,4,0,1.1,90.5,0,3,7.41,Spain,Midfielder
+2012/2013,4,Sergio Busquets,24,76,189,2250,1,2,9,0,0,92.2,1.5,1,7.22,Spain,Midfielder
+2012/2013,5,Adriano,28,75,172,1444,5,1,3,0,0.7,90.6,1.1,1,7.2,Brazil,Defender
+2012/2013,6,Jordi Alba,23,68,170,2500,2,5,3,0,0.2,89.5,0.8,0,7.18,Spain,Defender
+2012/2013,7,Xavi,32,68,170,2197,5,8,0,0,1.1,94.8,0.1,0,7.18,Spain,Midfielder
+2012/2013,8,Dani Alves,29,70,172,2272,0,6,2,0,0.8,86.1,0.8,2,7.16,Brazil,Defender
+2012/2013,9,Pedro,25,65,169,2078,7,6,3,0,1.5,90.1,0.2,1,7.16,Spain,Forward
+2012/2013,10,Alexandre Song,25,74,185,1537,1,0,3,0,0.2,92.7,1.7,0,7.14,Cameroon,Midfielder
+2012/2013,11,Thiago Alcantara,21,70,174,1416,2,4,4,0,0.6,91.8,0.7,2,7.14,Spain,Midfielder
+2012/2013,12,Gerard Pique,25,85,194,2403,2,0,4,1,0.5,91.1,1.6,0,7.11,Spain,Defender
+2012/2013,13,Cristian Tello,21,65,178,1176,7,4,0,0,1.5,84.8,0.1,1,7.06,Spain,Forward
+2012/2013,14,Alexis Sanchez,23,62,169,1707,8,9,4,0,1.1,80.5,0.6,1,7.04,Chile,Forward
+2012/2013,15,Martin Montoya,21,73,175,1148,1,2,0,0,0.3,91.5,1,0,7.04,Spain,Defender
+2012/2013,16,Carles Puyol,34,80,178,971,1,0,3,0,0.2,93.7,1.9,0,6.92,Spain,Defender
+2012/2013,17,Javier Mascherano,28,73,174,1931,0,0,2,1,0.1,90.1,1.3,0,6.84,Argentina,Midfielder
+2012/2013,18,Pinto,36,82,185,630,0,0,1,0,0,84.8,0.3,0,6.79,Spain,Goalkeeper
+2012/2013,19,David Villa,30,69,175,1425,10,5,1,0,1.6,83,0.1,0,6.76,Spain,Forward
+2012/2013,20,Marc Bartra,21,70,184,394,0,0,1,0,0.1,88.4,1.3,0,6.72,Spain,Defender
+2012/2013,21,Victor Valdes,30,78,183,2790,0,0,1,1,0,63,0.2,0,6.54,Spain,Goalkeeper
+2012/2013,22,Eric Abidal,33,75,186,184,0,0,0,0,0,92.5,0.6,0,6.48,France,Defender
+2012/2013,23,Jonathan dos Santos,22,74,172,59,0,0,0,0,0.3,97.3,0.3,0,6.37,Mexico,Midfielder
+2012/2013,24,Sergi Roberto,20,68,178,9,0,0,0,0,0,70,0,0,6.32,Spain,Midfielder
+2012/2013,25,Gerard Deulofeu,18,73,177,25,0,0,0,0,0,90.9,0,0,6.21,Spain,Forward
+2013/2014,1,Lionel Messi,26,72,170,2508,27,11,2,0,5,84.9,0.2,13,8.34,Argentina,Forward
+2013/2014,2,Alexis Sanchez,24,62,169,2386,19,10,2,0,1.9,79.8,0.7,3,7.54,Chile,Forward
+2013/2014,3,Neymar,21,68,175,1742,9,8,6,0,2.6,84.5,0.5,4,7.51,Brazil,Forward
+2013/2014,4,Gerard Pique,26,85,194,2311,2,0,5,0,0.8,90.2,3.8,3,7.49,Spain,Defender
+2013/2014,5,Carles Puyol,35,80,178,429,1,0,0,0,0.2,92.3,2.6,0,7.46,Spain,Defender
+2013/2014,6,Dani Alves,30,70,172,2388,2,3,6,0,1.1,87.3,1.2,0,7.44,Brazil,Defender
+2013/2014,7,Marc Bartra,22,70,184,1590,1,1,3,0,0.4,89.9,2.2,0,7.39,Spain,Defender
+2013/2014,8,Andres Iniesta,29,68,171,2487,3,7,0,0,1.2,90.7,0.1,1,7.34,Spain,Midfielder
+2013/2014,9,Cesc Fabregas,26,77,180,2446,8,12,4,0,1.4,87,0.5,1,7.32,Spain,Midfielder
+2013/2014,10,Adriano,29,75,172,2119,3,1,8,0,1.3,89.4,1.6,2,7.26,Brazil,Defender
+2013/2014,11,Sergio Busquets,25,76,189,2656,1,1,11,0,0.3,92.5,1.7,0,7.21,Spain,Midfielder
+2013/2014,12,Javier Mascherano,29,73,174,2367,0,0,9,0,0.1,88.9,1.2,0,7.14,Argentina,Midfielder
+2013/2014,13,Martin Montoya,22,73,175,1122,0,2,0,0,0.6,87.5,2.5,0,7.14,Spain,Defender
+2013/2014,14,Pedro,26,65,169,2367,15,8,3,0,1.9,84.5,0.2,2,7.13,Spain,Forward
+2013/2014,15,Jordi Alba,24,68,170,1202,0,2,5,1,0.3,89.4,1.1,0,7.08,Spain,Defender
+2013/2014,16,Xavi,33,68,170,2256,3,2,0,0,1.1,93,0.2,0,7.06,Spain,Midfielder
+2013/2014,17,Victor Valdes,31,78,183,2278,0,0,2,0,0,61.7,0.3,0,6.94,Spain,Goalkeeper
+2013/2014,18,Alexandre Song,26,74,185,1123,0,0,2,0,0.2,91.7,1.3,0,6.85,Cameroon,Midfielder
+2013/2014,19,Pinto,37,82,185,1236,0,0,1,0,0,71.4,0.4,0,6.76,Spain,Goalkeeper
+2013/2014,20,Adama Traore,17,86,178,7,0,0,0,0,1,75,0,0,6.62,Spain,Forward
+2013/2014,21,Cristian Tello,22,65,178,380,1,2,0,0,1,83.6,0,0,6.32,Spain,Forward
+2013/2014,22,Sergi Roberto,21,68,178,275,0,0,0,0,0.3,89.2,0.4,0,6.19,Spain,Midfielder
+2013/2014,23,Jonathan dos Santos,23,74,172,17,0,0,0,0,0,92.9,0,0,6.09,Mexico,Midfielder
+2013/2014,24,Jean Marie Dongou,18,76,182,6,0,0,0,0,0,100,0,0,6.07,Cameroon,Forward
+2013/2014,25,Ibrahim Afellay,27,76,180,3,0,0,0,0,0,100,0,0,6.06,Netherlands,Forward
+2014/2015,1,Lionel Messi,27,72,170,3375,43,18,4,0,4.9,82.9,0.2,25,8.84,Argentina,Forward
+2014/2015,2,Neymar,22,68,175,2573,22,7,6,0,2.9,81,0.6,2,7.96,Brazil,Forward
+2014/2015,3,Luis Suarez,27,86,182,2180,16,14,4,0,2.8,77.2,0.6,3,7.69,Uruguay,Forward
+2014/2015,4,Marc Bartra,23,70,184,1036,1,3,1,0,0.8,88.8,2.1,0,7.51,Spain,Defender
+2014/2015,5,Gerard Pique,27,85,194,2385,5,1,6,0,0.7,89.3,2,2,7.43,Spain,Defender
+2014/2015,6,Dani Alves,31,70,172,2524,0,6,6,1,0.7,88.5,0.9,0,7.37,Brazil,Defender
+2014/2015,7,Sergio Busquets,26,76,189,2492,1,2,7,0,0.2,91.7,1.8,1,7.24,Spain,Midfielder
+2014/2015,8,Jordi Alba,25,68,170,2335,1,3,6,1,0.7,88.4,0.7,1,7.22,Spain,Defender
+2014/2015,9,Jeremy Mathieu,30,82,189,2105,2,0,5,0,0.4,88.6,1.6,0,7.13,France,Defender
+2014/2015,10,Javier Mascherano,30,73,174,2208,0,0,8,1,0.1,91.2,0.8,0,7.12,Argentina,Midfielder
+2014/2015,11,Ivan Rakitic,26,78,184,2037,5,7,1,0,1.1,90.6,0.7,0,7.11,Croatia,Midfielder
+2014/2015,12,Adriano,29,75,172,953,0,1,2,0,0.5,89.6,0.8,0,7.11,Brazil,Defender
+2014/2015,13,Xavi,34,68,170,1779,2,8,1,0,0.9,92.7,0.3,0,7.11,Spain,Midfielder
+2014/2015,14,Martin Montoya,23,73,175,588,0,0,0,0,0.4,88.2,0.9,0,7.02,Spain,Defender
+2014/2015,15,Andres Iniesta,30,68,171,1590,0,1,3,0,1,89.9,0.3,0,6.96,Spain,Midfielder
+2014/2015,16,Claudio Bravo,31,80,184,3330,0,0,1,0,0,80,0.2,0,6.86,Chile,Goalkeeper
+2014/2015,17,Thomas Vermaelen,28,80,183,63,0,0,0,0,1,93,0,0,6.84,Belgum,Defender
+2014/2015,18,Rafinha,22,71,174,1152,1,1,2,0,0.5,91.8,0.2,0,6.8,Brazil,Midfielder
+2014/2015,19,Pedro,27,65,169,1531,6,6,3,0,1.1,86.9,0.1,0,6.76,Spain,Forward
+2014/2015,20,Sergi Roberto,22,68,178,507,0,0,0,0,0.3,94.7,1.3,0,6.7,Spain,Midfielder
+2014/2015,21,Sandro Rami­rez,19,71,175,145,2,0,0,0,1.1,84.7,0.3,0,6.52,Spain,Forward
+2014/2015,22,Douglas,24,70,171,100,0,0,1,0,0,91.4,0.5,0,6.52,Brazil,Defender
+2014/2015,23,Munir El Haddadi,19,69,175,463,1,1,0,0,1.8,79.7,0.7,0,6.49,France,Forward
+2014/2015,24,Jordi Masip,25,76,180,90,0,0,0,0,0,91.3,0,0,5.75,Spain,Goalkeeper
+2015/2016,1,Lionel Messi,28,72,170,2730,26,16,3,0,4.8,81.9,0.2,13,8.46,Argentina,Forward
+2015/2016,2,Neymar,23,68,175,3057,24,12,6,0,3.6,80.9,0.6,7,8.43,Brazil,Forward
+2015/2016,3,Luis Suarez,28,86,182,3150,40,16,6,0,3.9,73.1,0.4,8,8,Uruguay,Forward
+2015/2016,4,Sergio Busquets,27,76,189,2906,0,4,6,0,0.2,89.8,1.7,1,7.28,Spain,Midfielder
+2015/2016,5,Andres Iniesta,31,68,171,2248,1,2,2,0,0.8,88.3,0.4,1,7.24,Spain,Midfielder
+2015/2016,6,Ivan Rakitic,27,78,184,2581,7,2,3,0,1.3,88.1,0.9,2,7.17,Croatia,Midfielder
+2015/2016,7,Gerard Pique,28,85,194,2592,2,1,12,0,0.4,90.5,2,1,7.14,Spain,Defender
+2015/2016,8,Dani Alves,32,70,172,2149,0,4,6,0,0.6,87.2,0.6,0,7.05,Brazil,Defender
+2015/2016,9,Jordi Alba,26,68,170,2591,0,6,2,0,0.2,87.2,0.5,0,7.05,Spain,Defender
+2015/2016,10,Javier Mascherano,31,73,174,2694,0,0,9,1,0.1,90.5,1.2,0,7.01,Argentina,Midfielder
+2015/2016,11,Sergi Roberto,23,68,178,1916,0,5,1,0,0.5,88.1,0.7,2,6.93,Spain,Midfielder
+2015/2016,12,Claudio Bravo,32,80,184,2878,0,0,0,0,0,84.3,0.1,0,6.92,Chile,Goalkeeper
+2015/2016,13,Thomas Vermaelen,29,80,183,506,1,0,2,0,0.3,91.8,1.3,0,6.91,Belgum,Defender
+2015/2016,14,Marc Bartra,24,70,184,496,2,1,0,0,0.4,87.9,1.1,0,6.85,Spain,Defender
+2015/2016,15,Jeremy Mathieu,31,82,189,1263,0,2,2,0,0.3,88,1.2,0,6.76,France,Defender
+2015/2016,16,Aleix Vidal,26,70,177,543,0,1,1,0,0.1,86.9,0.3,0,6.76,Spain,Defender
+2015/2016,17,Rafinha,23,71,174,281,1,0,0,0,0.3,84.2,0.7,0,6.76,Brazil,Midfielder
+2015/2016,18,Munir El Haddadi,20,69,175,825,3,2,0,0,1.1,78.7,0.4,0,6.74,France,Forward
+2015/2016,19,Arda Turan,28,76,177,816,2,3,5,0,0.6,92.3,0.2,0,6.73,Turkey,Midfielder
+2015/2016,20,Adriano,30,75,172,431,0,1,0,0,0.1,91.3,0.4,0,6.68,Brazil,Defender
+2015/2016,21,Sergi Samper,20,73,182,29,0,0,0,0,0,81.5,2,0,6.5,Spain,Midfielder
+2015/2016,22,Marc-Andre ter Stegen,23,85,187,542,0,0,0,0,0,83.4,0.1,0,6.48,Germany,GoalKeeper
+2015/2016,23,Sandro Rami­rez,20,71,175,347,0,1,0,0,1,83.3,0,0,6.34,Spain,Forward
+2015/2016,24,Gerard Gumbau,20,77,187,43,0,0,0,0,0,84.2,0,0,6.13,Spain,Midfielder
+2015/2016,25,Douglas,25,70,171,12,0,0,0,0,0,50,0,0,6.08,Brazil,Defender
+2016/2017,1,Neymar,24,68,175,2652,13,11,6,1,3.5,76.5,0.3,9,8.52,Brazil,Forward
+2016/2017,2,Lionel Messi,29,72,170,2833,37,9,6,0,5.3,80.2,0.2,16,8.47,Argentina,Forward
+2016/2017,3,Luis Suarez,29,86,182,2865,29,13,8,0,3.4,74.8,0.3,4,7.8,Uruguay,Forward
+2016/2017,4,Aleix Vidal,27,70,177,472,2,2,0,0,1.5,82.4,0.3,0,7.34,Spain,Defender
+2016/2017,5,Gerard Pique,29,85,194,2193,2,0,6,0,0.8,90.2,2.2,0,7.2,Spain,Defender
+2016/2017,6,Ivan Rakitic,28,78,184,2345,8,5,5,0,1.5,85.8,0.9,1,7.18,Croatia,Midfielder
+2016/2017,7,Arda Turan,29,76,177,1244,3,3,1,0,0.8,87.1,0.6,0,7.15,Turkey,Midfielder
+2016/2017,8,Rafinha,24,71,174,1078,6,2,1,0,1.4,92.6,0.2,1,7.15,Brazil,Midfielder
+2016/2017,9,Sergio Busquets,28,76,189,2693,0,3,9,0,0.1,89.9,1.3,0,7.02,Spain,Midfielder
+2016/2017,10,Sergi Roberto,24,68,178,2383,0,6,5,0,0.5,88,1,0,7.01,Spain,Midfielder
+2016/2017,11,Samuel Umtiti,22,75,182,2133,1,0,4,0,0.2,92.9,1.8,0,6.98,France,Defender
+2016/2017,12,Marlon Santos,21,80,182,180,0,0,0,0,0,95.5,0.5,0,6.96,Brazil,Defender
+2016/2017,13,Andres Iniesta,32,68,171,1332,0,3,2,0,0.8,88.9,0.2,1,6.93,Spain,Midfielder
+2016/2017,14,Lucas Digne,23,74,178,1175,0,0,3,0,0.3,87.3,1.2,0,6.92,France,Defender
+2016/2017,15,Jordi Alba,27,68,170,1966,1,6,4,0,0.2,88.8,0.5,0,6.91,Spain,Defender
+2016/2017,16,Marc-Andre ter Stegen,24,85,187,3240,0,0,1,0,0,81.2,0.1,0,6.85,Germany,GoalKeeper
+2016/2017,17,Javier Mascherano,32,73,174,1917,1,3,6,0,0.4,91,0.5,0,6.83,Argentina,Midfielder
+2016/2017,18,Jeremy Mathieu,32,82,189,1040,1,0,0,0,0.4,88.3,1,0,6.79,France,Defender
+2016/2017,19,Paco Alcacer,23,72,175,849,6,3,1,0,1.3,79.9,0.3,1,6.73,Spain,Forward
+2016/2017,20,Andre Gomes,23,84,188,1591,3,1,3,0,0.6,88.1,0.8,0,6.65,Portugal,Midfielder
+2016/2017,21,Denis Suarez,22,69,176,1182,1,3,1,0,0.5,86,0.2,0,6.57,Spain,Midfielder
+2016/2017,22,Munir El Haddadi,21,69,175,20,0,0,0,0,0,100,0,0,6.15,France,Forward
+2016/2017,23,Carles Aleina,18,73,180,40,0,0,1,0,0.3,90.9,0,0,6.13,Spain,Midfielder
+2016/2017,24,Jasper Cillessen,27,83,185,90,0,0,0,0,0,100,0,0,6.06,Netherlands,Goalkeeper
+2016/2017,25,Claudio Bravo,33,80,184,90,0,0,0,0,0,93.8,0,0,5.67,Chile,Goalkeeper
+2017/2018,1,Lionel Messi,30,72,170,2997,34,12,3,0,5.5,81.2,0.2,22,8.68,Argentina,Forward
+2017/2018,2,Luis Suarez,30,86,182,2902,25,12,9,0,3.7,76.9,0.4,5,7.72,Uruguay,Forward
+2017/2018,3,Philippe Coutinho,25,68,172,1304,8,5,1,0,2.1,86.9,0.3,2,7.66,Brazil,Midfielder
+2017/2018,4,Jasper Cillessen,28,83,185,90,0,0,0,0,0,76.9,0,0,7.41,Netherlands,Goalkeeper
+2017/2018,5,Sergio Busquets,29,76,189,2600,1,4,8,0,0.2,90.5,1.6,0,7.25,Spain,Midfielder
+2017/2018,6,Jordi Alba,28,68,170,2745,2,8,8,0,0.5,86.8,0.5,2,7.22,Spain,Defender
+2017/2018,7,Sergi Roberto,25,68,178,2231,1,7,3,2,0.3,90.7,0.5,0,7.21,Spain,Midfielder
+2017/2018,8,Javier Mascherano,33,73,174,541,0,0,0,0,0,91.6,0,0,7.18,Argentina,Midfielder
+2017/2018,9,Gerard Pique,30,85,194,2633,2,0,9,0,0.6,89.4,2.2,0,7.16,Spain,Defender
+2017/2018,10,Ousmane Dembele,20,67,178,931,3,6,2,0,1.2,82,0.1,2,7.15,France,Forward
+2017/2018,11,Ivan Rakitic,29,78,184,2839,1,5,4,0,0.8,90.3,0.7,0,7.12,Croatia,Midfielder
+2017/2018,12,Samuel Umtiti,23,75,182,2189,1,0,7,0,0.4,91.2,1.9,0,7.03,France,Defender
+2017/2018,13,Andres Iniesta,33,68,171,1843,1,2,1,0,0.5,88.2,0.1,0,6.91,Spain,Midfielder
+2017/2018,14,Marc-Andre ter Stegen,25,85,187,3330,0,0,0,0,0,79.5,0.1,0,6.9,Germany,GoalKeeper
+2017/2018,15,Yerry Mina,22,94,195,370,0,1,2,0,0.6,92.6,2.2,0,6.89,Colombia,Defender
+2017/2018,16,Paulinho,29,83,180,1941,9,2,2,0,1.3,87.8,0.9,0,6.87,Brazil,Midfielder
+2017/2018,17,Gerard Deulofeu,23,73,177,503,1,1,1,0,0.8,81.1,0.2,0,6.8,Spain,Forward
+2017/2018,18,Thomas Vermaelen,31,80,183,1018,0,1,3,0,0.2,93.3,1.4,0,6.73,Belgum,Defender
+2017/2018,19,Nelson Semedo,23,67,177,1495,0,0,1,0,0.1,87.9,0.3,0,6.73,Portugal,Defender
+2017/2018,20,Lucas Digne,24,74,178,702,0,2,2,0,0.2,87.9,0.8,0,6.72,France,Defender
+2017/2018,21,Denis Suarez,23,69,176,585,2,2,1,0,0.7,84.6,0.1,0,6.66,Spain,Midfielder
+2017/2018,22,Paco Alcacer,24,72,175,695,4,3,0,0,0.9,82.1,0.4,0,6.62,Spain,Forward
+2017/2018,23,Andre Gomes,24,84,188,629,0,0,1,0,0.4,89.2,0.9,0,6.39,Portugal,Midfielder
+2017/2018,24,Aleix Vidal,28,70,177,455,1,1,0,0,0.5,78,0.2,0,6.36,Spain,Defender
+2017/2018,25,Jose Arnaiz,22,70,175,5,0,0,0,0,0,75,0,0,6.21,Spain,Forward
+2018/2019,1,Lionel Messi,31,72,170,2710,36,13,3,0,5,81.3,0.2,17,8.48,Argentina,Forward
+2018/2019,2,Luis Suarez,31,86,182,2830,21,6,5,0,3.4,75.3,0.7,5,7.57,Uruguay,Forward
+2018/2019,3,Ousmane Dembele,21,67,178,1673,8,5,1,0,1.3,80.7,0.3,3,7.25,France,Forward
+2018/2019,4,Gerard Pique,31,85,194,3150,4,2,6,0,0.5,91.4,3.4,0,7.18,Spain,Defender
+2018/2019,5,Ivan Rakitic,30,78,184,2643,3,5,5,1,1.1,91.4,1.1,1,7.06,Croatia,Midfielder
+2018/2019,6,Jordi Alba,29,68,170,2988,2,8,6,0,0.4,85.6,0.5,1,7.01,Spain,Defender
+2018/2019,7,Sergio Busquets,30,76,189,2720,0,1,10,0,0.2,89.7,1.5,0,7,Spain,Midfielder
+2018/2019,8,Jean-Clair Todibo,18,88,192,158,0,0,2,0,0,92.4,1,1,6.97,France,Defender
+2018/2019,9,Philippe Coutinho,26,68,172,2023,5,2,2,0,2,87.9,0.2,0,6.93,Brazil,Midfielder
+2018/2019,10,Sergi Roberto,26,68,178,2089,0,7,3,0,0.3,90.5,1,1,6.91,Spain,Midfielder
+2018/2019,11,Arturo Vidal,31,75,180,1929,3,7,7,0,0.7,89,1.2,0,6.89,Chile,Midfielder
+2018/2019,12,Clement Lenglet,23,81,186,1935,1,0,8,1,0.3,89.4,1.9,1,6.88,France,Defender
+2018/2019,13,Marc-Andre ter Stegen,26,85,187,3150,0,0,0,0,0,83.2,0.1,0,6.69,Germany,GoalKeeper
+2018/2019,14,Nelson Semedo,24,67,177,1602,1,0,4,0,0.2,91.2,0.7,0,6.68,Portugal,Defender
+2018/2019,15,Abel Ruiz,18,75,180,21,0,0,0,0,1,80,0,0,6.66,Spain,Forward
+2018/2019,16,Moussa Wague,19,70,177,225,0,0,1,0,0.3,87.4,0.7,0,6.65,France,Defender
+2018/2019,17,Samuel Umtiti,24,75,182,1190,0,1,4,0,0.1,94.5,0.9,0,6.6,France,Defender
+2018/2019,18,Malcom,21,77,171,608,1,2,0,0,0.7,86.9,0.3,0,6.53,Brazil,Forward
+2018/2019,19,Denis Suarez,24,69,176,17,0,0,0,0,0.5,73.3,0.5,0,6.5,Spain,Midfielder
+2018/2019,20,Arthur,22,73,171,1441,0,1,2,0,0.2,93.5,0.1,0,6.49,Brazil,Midfielder
+2018/2019,21,Jeison Murillo,26,78,182,112,0,0,0,0,0.5,92.8,2,0,6.46,Colombia,Defender
+2018/2019,22,Carles Aleina,20,73,180,631,2,0,2,0,0.8,92.1,0.3,1,6.44,Spain,Midfielder
+2018/2019,23,Riqui Puig,19,56,169,157,0,0,0,0,0,92.2,0.5,0,6.44,Spain,Midfielder
+2018/2019,24,Munir El Haddadi,23,69,175,148,1,1,0,0,0.6,77.6,0.1,0,6.43,France,Forward
+2018/2019,25,Thomas Vermaelen,32,80,183,587,0,0,2,0,0.2,94,1.4,0,6.4,Belgum,Defender
+2018/2019,26,Jasper Cillessen,29,83,185,270,0,0,0,0,0,86.6,0.3,0,6.36,Netherlands,Goalkeeper
+2018/2019,27,Rafinha,26,71,174,225,0,0,1,0,0.4,89,0.6,0,6.33,Brazil,Midfielder
+2018/2019,28,Kevin-Prince Boateng,31,76,186,240,0,0,1,0,1,76.7,1.3,0,6.22,Ghana,Forward
+2018/2019,29,Carles Perez,20,75,173,17,0,0,0,0,1,85.7,0,0,6.1,Spain,Forward
+2018/2019,30,alex Collado,19,66,177,84,0,0,0,0,2,83.3,0,0,5.96,Spain,Midfielder
+2019/2020,1,Lionel Messi,32,72,170,2881,25,21,4,0,4.8,82.6,0.3,22,8.71,Argentina,Forward
+2019/2020,2,Luis Suarez,32,86,182,2002,16,8,4,0,2.8,75.5,0.4,3,7.33,Uruguay,Forward
+2019/2020,3,Sergio Busquets,31,76,189,2491,2,2,10,0,0.3,89.9,1.2,1,7.07,Spain,Midfielder
+2019/2020,4,Gerard Pique,32,85,194,3096,1,0,15,0,0.4,91.8,3.7,1,7.03,Spain,Defender
+2019/2020,5,Antoine Griezmann,28,73,176,2562,9,4,2,0,1.6,81.8,0.9,1,6.97,France,Forward
+2019/2020,6,Rafinha,27,71,174,187,0,0,0,0,2,90,0,0,6.93,Brazil,Midfielder
+2019/2020,7,Clement Lenglet,24,81,186,2428,2,1,7,2,0.4,92.3,2.3,0,6.9,France,Defender
+2019/2020,8,Moussa Wague,20,70,177,90,0,0,0,0,0,88.1,1,0,6.88,France,Defender
+2019/2020,9,Jordi Alba,30,68,170,2190,2,5,7,0,0.3,88.6,0.2,0,6.87,Spain,Defender
+2019/2020,10,Sergi Roberto,27,68,178,2342,1,2,7,0,0.2,91.8,1,0,6.85,Spain,Midfielder
+2019/2020,11,Frenkie de Jong,22,74,181,2121,2,2,1,1,0.1,91.8,0.5,2,6.85,Netherlands,Midfielder
+2019/2020,12,Arthur,23,73,171,1185,3,3,1,0,0.4,91.5,0.1,0,6.84,Brazil,Midfielder
+2019/2020,13,Arturo Vidal,32,75,180,1663,8,2,4,0,0.8,88.4,1,1,6.83,Chile,Midfielder
+2019/2020,14,Riqui Puig,20,56,169,508,0,2,1,0,0.7,90.5,0.1,0,6.81,Spain,Midfielder
+2019/2020,15,Nelson Semedo,25,67,177,2097,1,2,2,0,0.3,89.5,0.4,0,6.79,Portugal,Defender
+2019/2020,16,Ansu Fati,16,66,178,1027,7,1,2,1,1.4,85.7,0.3,0,6.73,Spain,Forward
+2019/2020,17,Samuel Umtiti,25,75,182,946,0,0,6,0,0,92.2,1.6,0,6.71,France,Defender
+2019/2020,18,Ousmane Dembele,22,67,178,358,1,0,1,1,1,78,0.2,0,6.7,France,Forward
+2019/2020,19,Marc-Andre ter Stegen,27,85,187,3240,0,2,1,0,0,86.4,0.3,0,6.66,Germany,GoalKeeper
+2019/2020,20,Junior Firpo,23,78,184,1011,1,1,5,0,0.2,88.8,0.8,0,6.65,Spain,Defender
+2019/2020,21,Carles Perez,21,75,173,474,1,2,0,0,1.4,83.5,0.1,0,6.58,Spain,Forward
+2019/2020,22,Ivan Rakitic,31,78,184,1589,1,3,5,0,0.8,90,0.6,0,6.57,Croatia,Midfielder
+2019/2020,23,Jean-Clair Todibo,19,88,192,77,0,0,0,0,0,96.1,1,0,6.53,France,Defender
+2019/2020,24,Neto,30,84,190,180,0,0,0,0,0,87.5,0.5,0,6.48,Brazil,Goalkeeper
+2019/2020,25,Ronald Araujo,20,79,188,236,0,0,0,1,0.2,93.7,1,0,6.41,Uruguay,Defender
+2019/2020,26,Martin Braithwaite,28,77,180,403,1,0,1,0,1.2,77.8,0.5,0,6.36,Denmark,Forward
+2019/2020,27,Carles Aleina,21,73,180,171,0,0,0,0,0.3,92.8,0.3,0,6.32,Spain,Midfielder
+2019/2020,28,alex Collado,20,66,177,5,0,0,0,0,0,90,1,0,6.1,Spain,Midfielder
+2020/2021,1,Lionel Messi,33,72,170,3023,30,9,4,0,5.6,85.1,0.2,22,8.52,Argentina,Forward
+2020/2021,2,Ansu Fati,17,66,178,437,4,0,1,0,2,83.8,0.3,2,7.38,Spain,Forward
+2020/2021,3,Antoine Griezmann,29,73,176,2621,13,7,4,0,2,87.3,0.5,4,7.17,France,Forward
+2020/2021,4,Frenkie de Jong,23,74,181,3159,3,4,5,0,0.5,91.9,1.1,2,7.13,Netherlands,Midfielder
+2020/2021,5,Ousmane Dembele,23,67,178,1781,6,3,2,0,1.8,85.8,0.3,3,7.01,France,Forward
+2020/2021,6,Jordi Alba,31,68,170,3030,3,5,9,0,0.8,86.9,0.1,0,7,Spain,Defender
+2020/2021,7,Sergio Busquets,32,76,189,2530,0,5,9,0,0.1,91.3,1.1,0,6.88,Spain,Midfielder
+2020/2021,8,Gerard Pique,33,85,194,1486,0,0,4,0,0.5,94.1,3.2,0,6.8,Spain,Defender
+2020/2021,9,Philippe Coutinho,28,68,172,657,2,2,0,0,2.3,89.1,0.2,0,6.79,Brazil,Midfielder
+2020/2021,10,Oscar Mingueza,21,75,184,1907,2,2,4,0,0.4,92.9,0.5,0,6.76,Spain,Defender
+2020/2021,11,Pedri,17,60,174,2430,3,3,2,0,0.7,87.7,0.1,0,6.75,Spain,Midfielder
+2020/2021,12,Ronald Araujo,21,79,188,1509,2,1,3,0,0.5,91.8,2.1,0,6.74,Uruguay,Defender
+2020/2021,13,Sergi Roberto,28,68,178,947,1,2,1,0,0.3,90.1,0.8,0,6.73,Spain,Midfielder
+2020/2021,14,Neto,31,84,190,630,0,0,0,0,0,85.8,0,0,6.64,Brazil,Goalkeeper
+2020/2021,15,Sergiino Dest,19,68,173,1919,2,1,1,0,0.5,90,0.2,0,6.63,USA,Defender
+2020/2021,16,Ilaix Moriba,17,73,185,538,1,2,1,0,0.9,91.6,0.9,0,6.63,Guinea,Midfielder
+2020/2021,17,Marc-Andre ter Stegen,28,85,187,2790,0,0,1,0,0,86.9,0.2,1,6.63,Germany,GoalKeeper
+2020/2021,18,Clement Lenglet,25,81,186,2478,1,0,7,2,0.3,92.1,1.8,0,6.59,France,Defender
+2020/2021,19,Samuel Umtiti,26,75,182,643,0,0,1,0,0.2,93.8,1.1,0,6.55,France,Defender
+2020/2021,20,Junior Firpo,24,78,184,286,1,1,2,0,0.1,89.7,0.4,0,6.54,Spain,Defender
+2020/2021,21,Miralem Pjanic,30,72,178,623,0,0,1,0,0.8,91.4,0.5,0,6.41,Bosnia-Herzegovina,Midfielder
+2020/2021,22,Trincao,20,70,184,683,3,2,1,0,0.8,86.3,0.1,0,6.4,Portugal,Forward
+2020/2021,23,Martin Braithwaite,29,77,180,1164,2,2,3,0,0.8,82.2,0.6,0,6.33,Denmark,Forward
+2020/2021,24,Riqui Puig,21,56,169,283,1,0,1,0,0.3,91.9,0.1,0,6.32,Spain,Midfielder
+2020/2021,25,Carles Aleina,22,73,180,46,0,0,1,0,0.5,92.3,0.5,0,6.06,Spain,Midfielder
+2021/2022,1,Ousmane Dembele,24,67,178,1413,1,13,3,0,2.2,84.4,0.2,4,7.46,France,Forward
+2021/2022,2,Antoine Griezmann,30,73,176,264,0,0,0,0,1.3,85.1,1.3,0,7.15,France,Forward
+2021/2022,3,Pedri,18,60,174,891,3,1,0,0,1,86.5,0.3,0,7.12,Spain,Midfielder
+2021/2022,4,Memphis Depay,27,78,178,1850,12,2,3,0,2.2,82.1,0.4,5,7.1,Netherlands,Forward
+2021/2022,5,Sergio Busquets,33,76,189,3202,2,0,12,0,0.4,87.6,1.7,0,7.05,Spain,Midfielder
+2021/2022,6,Dani Alves,38,70,172,1103,1,3,2,1,0.4,88,0.6,1,7.03,Brazil,Defender
+2021/2022,7,Jordi Alba,32,68,170,2648,2,10,11,0,1,86.6,0.5,2,6.99,Spain,Defender
+2021/2022,8,Pierre-Emerick Aubameyang,32,80,187,1092,11,1,0,0,2.2,75.5,0.4,3,6.98,Gabon,Forward
+2021/2022,9,Abde Ezzalzouli,19,72,177,582,1,0,4,0,1.6,76.2,0.3,1,6.94,France,Forward
+2021/2022,10,Gerard Pique,34,85,194,2097,1,0,8,1,0.7,90,3,1,6.93,Spain,Defender
+2021/2022,11,Martin Braithwaite,30,77,180,237,2,1,0,0,1.8,81.5,0.8,1,6.93,Denmark,Forward
+2021/2022,12,Frenkie de Jong,24,74,181,2486,3,3,5,1,0.5,91.3,0.8,5,6.91,Netherlands,Midfielder
+2021/2022,13,Ferran Torres,21,77,184,1418,4,4,1,0,2.9,84.6,0.7,0,6.88,Spain,Forward
+2021/2022,14,Ilias Akhomach,17,0,175,126,0,0,0,0,2,87.8,0.5,0,6.87,Spain,Forward
+2021/2022,15,Ronald Araujo,22,79,188,2271,4,0,6,0,0.6,90.2,2,3,6.84,Uruguay,Defender
+2021/2022,16,Gavi,17,70,173,2331,2,5,9,1,0.9,89.3,0.9,1,6.79,Spain,Midfielder
+2021/2022,17,Sergiino Dest,20,68,173,1516,0,3,2,0,0.6,92.4,0.3,0,6.76,USA,Defender
+2021/2022,18,Adama Traore,25,86,178,379,0,2,0,0,0.8,85.2,0.5,1,6.74,Spain,Forward
+2021/2022,19,Ansu Fati,18,66,178,334,4,0,0,0,1.8,85.1,0.1,0,6.7,Spain,Forward
+2021/2022,20,"Eric Garcia
+",20,76,182,2044,0,0,5,1,0.2,93.2,1.2,0,6.62,Spain,Defender
+2021/2022,21,Neto,32,84,190,270,0,0,0,0,0,79.5,0,0,6.56,Brazil,Goalkeeper
+2021/2022,22,Luuk de Jong,31,86,188,643,6,0,1,0,1.1,72,1.6,0,6.54,Netherlands,Forward
+2021/2022,23,Samuel Umtiti,27,75,182,90,0,0,1,0,0,87.2,3,0,6.53,France,Defender
+2021/2022,24,Nico Gonzalez,19,85,188,1111,2,1,6,0,0.6,90,0.2,0,6.53,Spain,Midfielder
+2021/2022,25,Sergi Roberto,29,68,178,400,2,1,1,0,0.4,92,0.2,0,6.53,Spain,Midfielder
+2021/2022,26,Ferran Jutgla,22,75,176,303,1,0,1,0,1.7,85,1,0,6.52,Spain,Forward
+2021/2022,27,Marc-Andre ter Stegen,29,85,187,3150,0,0,3,0,0,85.9,0.2,0,6.51,Germany,GoalKeeper
+2021/2022,28,Oscar Mingueza,22,75,184,892,0,1,2,0,0.1,89.3,0.5,0,6.49,Spain,Defender
+2021/2022,29,Philippe Coutinho,29,68,172,500,2,0,1,0,2,86.8,0.2,0,6.46,Brazil,Midfielder
+2021/2022,30,Clement Lenglet,26,81,186,818,0,1,4,0,0.1,91,0.8,0,6.3,France,Defender
+2021/2022,31,Sergio Aguero,33,70,173,151,1,0,0,0,1.5,74.4,0.8,0,6.3,Argentina,Forward
+2021/2022,32,Riqui Puig,22,56,169,475,1,0,0,0,0.6,92.7,0.1,0,6.29,Spain,Midfielder
+2021/2022,33,Emerson Royal,22,79,181,90,0,0,0,0,0,86.5,0,0,6.28,Brazil,Defender
+2021/2022,34,Yusuf Demir,18,72,171,191,0,0,0,0,0.2,90.7,0,0,6.2,Austria,Forward
+2021/2022,35,Alejandro Balde,17,69,175,188,0,0,0,0,0.2,95.7,0,0,6.14,Spain,Defender
+2021/2022,37,alvaro Sanz,20,0,0,27,0,0,0,0,0,83.3,0,0,6.01,Spain,Forward
+2021/2022,38,Mika Marmol,20,0,0,1,0,0,0,0,0,80,0,0,6,Spain,Forward
+2022/2023,1,Robert Lewandowski,34,81,185,2852,23,7,2,1,4,78.1,1.5,7,7.49,Poland,Forward
+2022/2023,2,Memphis Depay,28,78,178,116,1,0,0,0,3,83.9,0.5,0,7.23,Netherlands,Forward
+2022/2023,3,Pedri,19,60,174,1983,6,1,2,0,0.8,87.6,0.1,4,7.2,Spain,Midfielder
+2022/2023,4,Frenkie de Jong,25,74,181,2539,2,4,3,0,0.5,91.4,1,4,7.15,Netherlands,Midfielder
+2022/2023,5,Ousmane Dembele,25,67,178,1416,5,7,4,0,2,83.4,0.2,3,7.14,France,Forward
+2022/2023,6,Raphinha,25,68,176,2087,7,7,8,0,2.2,79.9,0.4,6,7.04,Brazil,Forward
+2022/2023,7,Sergio Busquets,34,76,189,2347,0,4,6,1,0.3,88.7,1.8,0,6.99,Spain,Midfielder
+2022/2023,8,Jules Kounde,23,75,180,2429,1,3,2,0,0.5,88.8,1.5,1,6.97,France,Defender
+2022/2023,9,Ronald Araujo,23,79,188,1802,0,2,6,1,0.8,89.1,2.1,0,6.91,Uruguay,Defender
+2022/2023,10,Alejandro Balde,18,69,175,2477,1,6,4,0,0.6,91.1,0.6,1,6.9,Spain,Defender
+2022/2023,11,Marc-Andre ter Stegen,30,85,187,3349,0,0,0,0,0,82.4,0.2,0,6.86,Germany,GoalKeeper
+2022/2023,12,Gerard Pique,35,85,194,383,0,0,3,1,0.4,92.2,2.9,0,6.85,Spain,Defender
+2022/2023,13,Gavi,18,70,173,2543,2,4,10,0,0.8,87.5,1.1,0,6.84,Spain,Midfielder
+2022/2023,14,Jordi Alba,33,68,170,1423,2,3,4,1,0.5,86.6,0.3,1,6.82,Spain,Defender
+2022/2023,15,Andreas Christensen,26,82,187,1767,1,1,2,0,0.4,94,1.8,0,6.82,Denmark,Defender
+2022/2023,16,Hector Bellerin,27,74,178,141,0,0,0,0,0,80,1,0,6.71,Spain,Defender
+2022/2023,17,Sergi Roberto,30,68,178,1309,4,1,3,0,0.8,92.8,0.3,0,6.65,Spain,Midfielder
+2022/2023,18,"Eric Garcia
+",21,76,182,1414,1,0,3,0,0.3,91,1,0,6.62,Spain,Defender
+2022/2023,19,Ansu Fati,19,66,178,1382,7,3,3,0,1.7,84.8,0.2,0,6.55,Spain,Forward
+2022/2023,20,Marcos Alonso,31,84,188,1163,1,0,3,0,0.3,90.9,1.1,0,6.53,Spain,Defender
+2022/2023,21,Ferran Torres,22,77,184,1385,4,2,5,1,1.2,81.2,0.3,1,6.48,Spain,Forward
+2022/2023,22,Franck Kessie,25,74,183,980,1,1,4,0,0.5,86.8,0.3,0,6.3,Ivory Coast,Midfielder
+2022/2023,23,Aleix Garrido,18,0,166,6,0,0,0,0,0,100,0,0,6.24,Spain,Midfielder
+2022/2023,24,Pablo Torre,19,63,173,138,0,0,0,0,0.1,85.2,0.1,0,6.22,Spain,Midfielder
+2022/2023,25,Pierre-Emerick Aubameyang,33,80,187,8,0,0,0,0,1,100,0,0,6.21,Gabon,Forward
+2022/2023,26,Lamine Yamal,15,0,180,7,0,0,0,0,1,100,0,0,6.14,Spain,Forward
+2022/2023,27,Inaki Pena,23,78,184,72,0,0,0,0,0,90.9,0,0,6.05,Spain,Goalkeeper
+2022/2023,28,Angel Alarcon,18,0,0,23,0,0,0,0,0.3,71.4,0,0,6.03,Spain,Midfielder
+2022/2023,30,Chadi Riad,19,0,186,1,0,0,0,0,0,100,0,0,6,Spain,Midfielder
